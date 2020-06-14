@@ -6,10 +6,10 @@
 
 取材自以下資源
 --------
-FirebaseFlowExample
+FirebaseFlowExample                               
 https://github.com/PatilShreyas/FirebaseFlowExample 
 
-1111找工作- 找打工、找兼職兼差的求職APP
+1111找工作- 找打工、找兼職兼差的求職APP                               
 https://play.google.com/store/apps/details?id=holdingtop.app1111&hl=zh_TW                                        
                                                                                                                
 預覽
